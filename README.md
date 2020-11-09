@@ -1,1 +1,5 @@
-# TurtleDraw
+Justin Freiberg
+
+Turtle Draw 
+
+justinrfreiberg@lewisu.edu
